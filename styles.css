@@ -1,0 +1,151 @@
+.Peace-of-minds {
+  position: relative;
+  left: 1480px;
+  top: 7px;
+}
+
+.dots-9 {
+  position: relative;
+  left: 1400px;
+  width: 15px;
+  bottom: 2px;
+}
+
+.images {
+  font-size: 13px;
+  font-family: arial,sans-serif;
+  position: relative;
+  left: 1363px;
+  bottom: 35px;
+}
+
+.gmail {
+  font-size: 13px;
+  font-family: arial,sans-serif;
+  position: relative;
+  left: 1310px;
+  bottom: 63px;
+}
+
+.google {
+  position: relative;
+  width: 270px;
+  left: 625px;
+  top: 17px;
+}
+
+.text-box {
+  position: relative;
+  left: 460px;
+  top: 30px;
+}
+
+.box {
+  width: 580px;
+}
+
+.box-1 {
+  position: relative;
+  font-family: arial,sans-serif;
+  font-weight: lighter;
+  width: 120px;
+  height: 30px;
+  border: none;
+  background-color: #faf8f8;
+  right: 440px;
+  top: 45px;
+}
+
+.box-2 {
+  position: relative;
+  font-family: arial,sans-serif;
+  font-weight: lighter;
+  width: 125px;
+  height: 30px;
+  border: none;
+  background-color: #faf8f8;
+  right: 400px;
+  top: 45px;
+}
+
+.word {
+  font-family: arial,sans-serif;
+  position: relative;
+  top: 60px;
+}
+
+.word-2 {
+  font-size: 15px;
+  color: blue;
+  font-family: arial,sans-serif;
+  position: relative;
+  top: 24px;
+  left: 140px;
+}
+
+#coloring {
+  position: relative;
+  background-color: #eeeeee;
+  width: 2000px;
+  height: 82px;
+  top: 220px;
+  right: 470px;
+}
+
+.line {
+  position: relative;
+  right: 466px;
+  top: 174px;
+}
+
+.india {
+  position: relative;
+  font-family: arial,sans-serif;
+  color: grey;
+  top: 125px;
+  right: 440px;
+}
+
+.About {
+  position: relative;
+  font-family: arial,sans-serif;
+  color: grey;
+  top: 133px;
+  right: 435px;
+  text-decoration: none;
+}
+
+.Advertising {
+  position: relative;
+  font-family: arial,sans-serif;
+  color: grey;
+  top: 100px;
+  right: 350px;
+  text-decoration: none;
+}
+
+.Business {
+  position: relative;
+  font-family: arial,sans-serif;
+  color: grey;
+  top: 66px;
+  right: 225px;
+  text-decoration: none;
+}
+
+.how {
+  position: relative;
+  font-family: arial,sans-serif;
+  color: grey;
+  top: 33px;
+  right: 120px;
+  text-decoration: none;
+}
+
+.set {
+  position: relative;
+  font-family: arial,sans-serif;
+  color: grey;
+  top: -35px;
+  left: 1070px;
+}
